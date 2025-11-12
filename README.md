@@ -10,6 +10,18 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/IHKREDDY/skills-build-applications-w-copilot-agent-mode/issues/1)
 
+## 📚 Documentation
+
+### GitHub Copilot Standards
+
+Learn about prompt and instruction standards for GitHub Copilot:
+
+- **[GitHub Copilot Customization Guide](docs/github-copilot-customization-guide.md)** - Complete overview and best practices
+- **[Prompt File Standards](docs/github-copilot-prompt-standards.md)** - Standards for defining reusable tasks
+- **[Instruction File Standards](docs/github-copilot-instruction-standards.md)** - Standards for coding guidelines and patterns
+
+See the [docs/README.md](docs/README.md) for more information.
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
