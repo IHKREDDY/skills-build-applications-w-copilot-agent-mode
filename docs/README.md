@@ -6,8 +6,18 @@ This directory contains documentation for the OctoFit Tracker application and Gi
 
 Comprehensive guides for customizing GitHub Copilot in this repository:
 
+### 📋 [Quick Reference Cheat Sheet](./github-copilot-quick-reference.md)
+**Start here for a quick overview!** One-page cheat sheet with essential information, decision trees, and common patterns.
+
+**What you'll find:**
+- Side-by-side comparison table
+- Decision tree for choosing file type
+- Quick start guide
+- Common use cases
+- Testing tips
+
 ### 📘 [GitHub Copilot Customization Guide](./github-copilot-customization-guide.md)
-**Start here!** Complete overview of the customization system with quick reference guide, examples, and best practices. This guide ties together both prompt files and instruction files.
+**Complete guide.** Comprehensive overview of the customization system with detailed examples and best practices. This guide ties together both prompt files and instruction files.
 
 **What you'll learn:**
 - Understanding the customization system
@@ -40,16 +50,19 @@ Detailed standards for creating instruction files that define **HOW** tasks shou
 
 ## Quick Start
 
-1. **New to Copilot customization?**  
-   Start with [GitHub Copilot Customization Guide](./github-copilot-customization-guide.md)
+1. **Quick overview needed?**  
+   Start with [Quick Reference Cheat Sheet](./github-copilot-quick-reference.md)
 
-2. **Want to create a new prompt file?**  
+2. **New to Copilot customization?**  
+   See [GitHub Copilot Customization Guide](./github-copilot-customization-guide.md)
+
+3. **Want to create a new prompt file?**  
    See [Prompt File Standards](./github-copilot-prompt-standards.md)
 
-3. **Want to create new coding standards?**  
+4. **Want to create new coding standards?**  
    See [Instruction File Standards](./github-copilot-instruction-standards.md)
 
-4. **Looking for examples?**  
+5. **Looking for examples?**  
    Check the existing files:
    - Prompts: `.github/prompts/`
    - Instructions: `.github/instructions/`
@@ -96,7 +109,8 @@ Instruction File (HOW)
 ```
 docs/
 ├── README.md                                      # This file
-├── github-copilot-customization-guide.md         # Overview guide (start here)
+├── github-copilot-quick-reference.md             # Quick reference cheat sheet
+├── github-copilot-customization-guide.md         # Overview guide
 ├── github-copilot-prompt-standards.md            # Prompt file standards
 ├── github-copilot-instruction-standards.md       # Instruction file standards
 ├── octofit_story.md                              # Application story

@@ -16,6 +16,7 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 Learn about prompt and instruction standards for GitHub Copilot:
 
+- **[Quick Reference Cheat Sheet](docs/github-copilot-quick-reference.md)** - One-page quick reference guide
 - **[GitHub Copilot Customization Guide](docs/github-copilot-customization-guide.md)** - Complete overview and best practices
 - **[Prompt File Standards](docs/github-copilot-prompt-standards.md)** - Standards for defining reusable tasks
 - **[Instruction File Standards](docs/github-copilot-instruction-standards.md)** - Standards for coding guidelines and patterns
